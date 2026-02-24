@@ -1,4 +1,4 @@
-# Tutorial-8-Embedded-Systems-and-IoT
+# Tutorial-7-Embedded-Systems-and-IoT-RFID
 การใช้งาน RFID (Radio Frequency Identification)
 
 
@@ -26,7 +26,7 @@ Instruction
   - RST > GPIO 00
   - 3v3 > 3v3
 2. ติดตั้ง library ของ RFID module โดยพิมพ์คำว่า MFRC522 ในช่องค้นหา library แล้วเลือกติดตั้ง "MFRC522 by GithubCommunity" เวอร์ชัน 1.4.10
-3. ดาวน์โหลดโค้ดจากไฟล์ lab8.ino
+3. ดาวน์โหลดโค้ดจากไฟล์ lab7.ino
 4. อัพโหลดโค้ดและทดสอบโดยการนำ tag ไปสแกนและดูหมายเลขของ tag ผ่าน serial monitor
 
 
